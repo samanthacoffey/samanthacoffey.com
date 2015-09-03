@@ -1,2 +1,32 @@
-font-family: 'Quicksand', sans-serif;
-font-family: 'Questrial', sans-serif;
+h1 {
+	font-family: 'Quicksand', sans-serif;
+}
+
+h2, h3, h4, h5, h6, p {
+	font-family: 'Questrial', sans-serif;
+
+}
+
+.container {
+	width: 100%;
+}
+
+.header {
+	background: #ffdd00;;
+}
+
+.about {
+	background: #fff47c;
+}
+
+.skills {
+	background: #fff9ba;
+}
+
+.experience {
+	background: #fffed9;
+}
+
+.contact {
+	background: #fffbe9;
+}
