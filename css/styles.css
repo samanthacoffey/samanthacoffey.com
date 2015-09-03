@@ -1,8 +1,12 @@
-h1 {
-	font-family: 'Quicksand', sans-serif;
+body {
+	width: 100%;
+	height: 100%;
+	font-family: 'Questrial', sans-serif;
+	background: #fffbe9;
+	color: #555555;
 }
 
-h2, h3, h4, h5, h6, p {
+h1, h2, h3, h4, h5, h6, p {
 	font-family: 'Questrial', sans-serif;
 
 }
